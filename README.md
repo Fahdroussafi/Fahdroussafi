@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahdroussafi&label=Profile%20views&color=100eb4&style=flat" alt="fahdroussafi" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack,React.js,Node.js,Javascript**
-
-- ⚡ Fun fact **I love playing videos games.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
